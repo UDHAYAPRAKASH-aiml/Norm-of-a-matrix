@@ -55,7 +55,7 @@ print(result)
 ![out 1](https://github.com/user-attachments/assets/d393602c-b742-4364-8a1f-6b528d29e003)
 
 
-```
+
 
 ## Result:
 Thus the program for 1-norm, 2-norm and Infinity norm of a matrix are written and verified.
